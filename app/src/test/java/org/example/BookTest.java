@@ -12,5 +12,6 @@ class BookTest {
         assertEquals("1984", book.getTitle());
         assertEquals("George Orwell", book.getAuthor());
         assertEquals(1949, book.getYearPublished());
+        
     }
 }
